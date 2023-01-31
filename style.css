@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(182, 182, 182);
+    padding: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+.fields {
+    text-align: center;
+}
+
+button {
+    background-color: yellow;
+}
+
+.button {
+    text-align: center;
+    padding-top: 20px;
+}
